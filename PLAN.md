@@ -9,9 +9,9 @@
 ## Steps
 
 ### 1. Setup (days 1–2)
-- [ ] GitHub repo created and cloned in RStudio
-- [ ] `00_setup.R` run (folders + renv)
-- [ ] First commit and push
+- [X] GitHub repo created and cloned in RStudio
+- [X] `00_setup.R` run (folders + renv)
+- [X] First commit and push
 
 ### 2. Get the data (days 3–4) – `R/01_download.R`, `R/02_merge.R`
 - [ ] Download 2005–2006 files with `nhanesA`:
